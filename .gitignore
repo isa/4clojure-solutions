@@ -1,0 +1,10 @@
+.cake
+.DS_Store
+pom.xml
+*.jar
+*.war
+*.log
+lib
+classes
+build
+/4clojure-solutions
