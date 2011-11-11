@@ -2,7 +2,7 @@
    (:use [midje.sweet])
    (:use four_clojure_solutions.002_simple_math))
 
-(fact "should return true when true given"
+(fact "should return true when 4 given"
   (solution 4) => true)
 
 (fact "should return false for anything else"
